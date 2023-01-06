@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @nicobfs
-- 👀 I’m interested in Programmer Web Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Back-End Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Web Development
+- 📫 How to reach me : nicobfs1@gmail.com
+
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
 
 <p align="left">
 <a href="https://github.com/nicobfs">

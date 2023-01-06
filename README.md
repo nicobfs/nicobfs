@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Back-End Development
 - 💞️ I’m looking to collaborate on Web Development
-- 📫 How to reach me : nicobfs1@gmail.com
+- 📫 How to reach me : nicobfs1@gmail.com ; www.linkedin.com/in/nicobfs
+
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>

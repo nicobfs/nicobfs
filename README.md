@@ -6,6 +6,8 @@
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+    <br>
+  <br>
 
 <p align="left">
 <a href="https://github.com/nicobfs">

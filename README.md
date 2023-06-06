@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @nicobfs
 - 👀 I’m interested in Data Scientist, Data Analyst, Data Engineer
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Scienct
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me : nicobfs1@gmail.com ; www.linkedin.com/in/nicobfs
 
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="Python" title="Python" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" /></a>
+  <a href="#"><img align="left" alt="Python" title="Python" width="210px" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" /></a>
     <br>
   <br>
 
